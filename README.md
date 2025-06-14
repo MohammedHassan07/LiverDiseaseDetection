@@ -87,7 +87,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### Step 5: Create .env file in the LiverBakcend directory and copy the contents of .env.sample into .env file
+### Step 5: Create .env file in the LiverBakcend directory and copy the contents of .env.sample into .env file, You Need to generate the Gemini API key from [Google AI studio](https://aistudio.google.com)
 
 ### Step 6: Install all libraries from requirements.txt using the command
 ```sh
