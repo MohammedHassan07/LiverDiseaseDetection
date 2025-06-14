@@ -46,6 +46,8 @@ def predict():
     # Get Gemini liver health advice
     health_advice = get_liver_health_advice(probability)
 
+    print(prediction, probability, health_advice)
+
     return jsonify({
         'prediction': int(prediction),
         'probability': round(probability, 2),
