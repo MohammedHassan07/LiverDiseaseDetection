@@ -1,14 +1,43 @@
-# 📅 Liver Disease Detection
+# 🩺 Liver Disease Detection System
 
 ## 📌 Description
-Timetable Management System is a web-based application that allows administrators to efficiently generate and manage timetables for teachers. It provides a secure authentication system for admins and teachers and an admin panel to manage timetables dynamically.
+This project is a full-stack application designed to **predict liver disease** using patient health data. It uses a machine learning model built in Python and integrates it into a web-based application using **Flask (backend)** and **ReactJS (frontend)**.
+
 
 ## 🚀 Features
-- 🛡️ **Secure Authentication & Authorization** (Admin & Teacher Roles)
-- 📅 **Automatic Timetable Generation**
-- 🏫 **Admin Panel** to manage and update timetables
-- 🧑‍🏫 **Teacher Dashboard** for viewing assigned schedules
-- 📊 **User-Friendly Interface** built with React and Tailwind CSS
+
+- Liver disease prediction using a trained ML/DL model
+- REST API built with Flask
+- User interface built using React and Tailwind CSS
+- Integration of LangChain for model interaction (if applicable)
+
+## 🧠 Skills Required
+
+To understand or contribute to this project, the following skills are helpful:
+
+### 🧑‍💻 Programming & Development
+- Python (for ML model and Flask backend)
+- JavaScript (for frontend development)
+- ReactJS & Tailwind CSS
+- REST APIs
+- Flask framework
+
+### 📊 Machine Learning & AI
+- Data preprocessing
+- Building and evaluating ML models (especially ANN)
+- Jupyter Notebook usage
+- Knowledge of liver-related health metrics (like bilirubin, proteins, etc.)
+
+### 🔧 Tools & Workflow
+- Git & GitHub
+- Visual Studio Code / Jupyter Notebook
+- npm / pip for package management
+
+## 📘 Resources
+
+- **Notebook**: Contains model training, evaluation, and export logic
+- **Project Paper**: Includes abstract, problem statement, model design, and results
+
 
 ## 🛠️ Tech Stack
 
@@ -88,4 +117,4 @@ npm run dev
 ```
 
 Step 3: Open you browser and hit the url
-[Liver Disease Ditection](http://localhost:5173)
+http://localhost:5173
