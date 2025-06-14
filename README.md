@@ -55,7 +55,7 @@ To understand or contribute to this project, the following skills are helpful:
 
 Follow these steps to set up and run the project:
 
-### Step 1: Make sure you have Python and VS Code installed in you system
+### Step 1: Make sure you have NodeJs, Python and VS Code installed in your system
 ### Step 2: Clone the Repository
 ```sh
 git clone https://github.com/MohammedHassan07/LiverDiseaseDetection.git
