@@ -121,4 +121,4 @@ http://localhost:5173
 ## 👨‍💻 Contributors
 - [Mohammed Hassan](https://www.linkedin.com/in/mohammed-hassan-343b00215)
 - [Abdul Rahman](https://www.linkedin.com/in/abdulrahman0842)
-- [Ansari Farzan](https://www.linkedin.com/itachi791)
+- [Ansari Farzan](https://www.github.com/itachi791)
