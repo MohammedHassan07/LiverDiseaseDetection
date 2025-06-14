@@ -102,8 +102,7 @@ python app.py
 
 ### Step 8: Access the web page
 Open the browser and enter the url
-- :  
-  `http://localhost:5000`
+- `http://localhost:5000`
 
 
 ## 📥 The Frontend is in ReactJs if you want to Start the development server of ReactJs 
@@ -118,3 +117,8 @@ npm run dev
 
 Step 3: Open you browser and hit the url
 http://localhost:5173
+
+## 👨‍💻 Contributors
+- [Mohammed Hassan](https://www.linkedin.com/in/mohammed-hassan-343b00215)
+- [Abdul Rahman](https://www.linkedin.com/in/abdulrahman0842)
+- [Ansari Farzan](https://www.linkedin.com/itachi791)
