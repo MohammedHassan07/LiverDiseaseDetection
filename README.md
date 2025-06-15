@@ -55,7 +55,7 @@ To understand or contribute to this project, the following skills are helpful:
 
 Follow these steps to set up and run the project:
 
-### Step 1: Make sure you have Python and VS Code installed in you system
+### Step 1: Make sure you have NodeJs, Python and VS Code installed in your system
 ### Step 2: Clone the Repository
 ```sh
 git clone https://github.com/MohammedHassan07/LiverDiseaseDetection.git
@@ -87,7 +87,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### Step 5: Create .env file in the LiverBakcend directory and copy the contents of .env.sample into .env file
+### Step 5: Create .env file in the LiverBakcend directory and copy the contents of .env.sample into .env file, You Need to generate the Gemini API key from [Google AI studio](https://aistudio.google.com)
 
 ### Step 6: Install all libraries from requirements.txt using the command
 ```sh
